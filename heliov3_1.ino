@@ -39,6 +39,7 @@
 // https://bloghoskins.blogspot.com/
 
 /*   V3.1 - Minor Updates
+ *   https://bloghoskins.blogspot.com/2020/07/helios-one-arduino-synth-part-31-minor.html
  *   *Improved Filter Resonance (?).  Apparantly After setting resonance, you need to call setCuttoffFreq() to hear the change.
  *   Swapped order of cut-off and resonance in code.  Filter Sounds Better now?
  *   *Increased note sustain from 10 seconds to 60 seconds
@@ -46,6 +47,7 @@
  *   
  *   
  *   V3
+ *   https://bloghoskins.blogspot.com/2020/06/helios-one-arduino-synth-part-3.html
  *   In this version we add a low pass filter.  A cut off pot and resonance pot are added.
  *   For this you'll need two B10k pots, and a 220ohm resistor.
  *   A3: for Resonance (center pot).  Other lugs go to ground and +5v
